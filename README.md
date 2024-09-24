@@ -1,13 +1,13 @@
-##Library Book Management System
+#Library Book Management System
 
-This project is a C# application aimed at managing a library's book collection. It provides features for sorting books by publication year and calculating the average publication year.
+This project is a C# application designed to manage a library's book collection, featuring capabilities for sorting books by publication year and calculating the average publication year.
 
-As I built this program, I deepened my understanding of key C# concepts, including:
+During the development of this program, several key C# concepts were explored:
 
-Object-Oriented Programming (OOP): I created classes to represent books and manage their attributes, such as title, author, ISBN, and publication year.
+Object-Oriented Programming (OOP): Classes were created to represent books and manage attributes such as title, author, ISBN, and publication year.
 
-Data Structures: I utilized lists to handle collections of books and implemented sorting algorithms to organize them efficiently.
+Data Structures: Lists were utilized to handle collections of books, with sorting algorithms implemented for efficient organization.
 
-Unit Testing: I applied MSTest to develop tests that ensure the correctness of sorting and average calculation functionalities. This reinforced the importance of writing reliable code.
+Unit Testing: MSTest was applied to develop tests that ensure the correctness of sorting and average calculation functionalities, reinforcing the importance of reliable code.
 
-The project serves as a hands-on learning experience in software development, helping me to improve my coding skills while building a practical application.
+This project serves as a hands-on learning experience in software development, contributing to the improvement of coding skills while building a practical application.
