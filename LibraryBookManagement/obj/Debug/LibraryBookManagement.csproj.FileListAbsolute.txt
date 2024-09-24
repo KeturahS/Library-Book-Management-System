@@ -1,0 +1,12 @@
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\bin\Debug\LibraryBookManagement.exe.config
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\bin\Debug\LibraryBookManagement.exe
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\bin\Debug\LibraryBookManagement.pdb
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.csproj.AssemblyReference.cache
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.Form1.resources
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.Properties.Resources.resources
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.csproj.GenerateResource.cache
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.csproj.CoreCompileInputs.cache
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.exe
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.pdb
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.FormBookReport.resources
+C:\Users\ke2ra\source\repos\LibraryBookManagement\LibraryBookManagement\obj\Debug\LibraryBookManagement.MsgBOX.resources
